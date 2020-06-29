@@ -1,5 +1,8 @@
 # Bacheloararbeit
-Codes zur Reanalyse eines Massenzytometriedatensatzes durch Pri Workflow
+Codes zur Re-Analyse eines Massenzytometriedatensatzes durch Pri Workflow
+
+Cox.Model_V03.R zum erstellen eines Cox Hazard Modell.
 
 
-Zur Erstellung eines Cox Hazard Modell werden die RDS Files eingelesen. 
+*optionale Alpha Suche für gegebene RDS-Files.
+Einlesen der RDS-Files in find_alpha_training.R
